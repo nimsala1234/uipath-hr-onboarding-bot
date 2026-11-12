@@ -1,0 +1,5 @@
+employee_id,name,email,department
+E001,Demo Employee,demo1@example.com,Engineering
+E002,Example Employee,demo2@example.com,Finance
+E001,Duplicate Employee,demo3@example.com,IT
+E003,Missing Email,,HR
